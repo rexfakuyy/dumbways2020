@@ -24,4 +24,9 @@ Ansible memiliki banyak module yang bisa digunakan namun jika kalian ingin menge
 sumber: https://sibunglon.com/2019/01/19/berkenalan-dengan-ansible/
 
 3. ![03](https://user-images.githubusercontent.com/45087061/99877619-165b4800-2c32-11eb-89cd-590880036c85.png) 03.png
-
+find (command)
+    sumber: https://www.linuxid.net/25319/tutorial-perintah-find-untuk-mencari-file-di-linux-terminal/
+    
+4. ![04](https://user-images.githubusercontent.com/45087061/99877745-e6f90b00-2c32-11eb-9aaf-1334de19a7cf.png) 04.png
+history (command)
+    sumber: https://www.hostinger.co.id/tutorial/perintah-dasar-linux/#23-jobs-command
