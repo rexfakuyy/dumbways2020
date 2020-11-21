@@ -24,5 +24,5 @@ Support Command Bash
 Ansible memiliki banyak module yang bisa digunakan namun jika kalian ingin mengeksekusi perintah tertentu namun belum ada dimodule ansible, anda tetap bisa mengesekusinya dengan module command dan kemudian bisa kalian isi dengan command yang ingin dieksekusi.
 sumber: https://sibunglon.com/2019/01/19/berkenalan-dengan-ansible/
 
-3. ![03](https://user-images.githubusercontent.com/45087061/99877619-165b4800-2c32-11eb-89cd-590880036c85.png)
+3. ![03](https://user-images.githubusercontent.com/45087061/99877619-165b4800-2c32-11eb-89cd-590880036c85.png) 03.png
 
