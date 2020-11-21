@@ -30,3 +30,27 @@ sumber: https://sibunglon.com/2019/01/19/berkenalan-dengan-ansible/
 04.png ![04](https://user-images.githubusercontent.com/45087061/99877745-e6f90b00-2c32-11eb-9aaf-1334de19a7cf.png)
 4. history (command)
     sumber: https://www.hostinger.co.id/tutorial/perintah-dasar-linux/#23-jobs-command
+    
+5. SQL bersifat table-based di mana database ini cocok digunakan untuk aplikasi yang membutuhkan transaksi multi baris. Contoh dari aplikasi ini adalah sistem akuntansi dan mungkin legacy system yang pada awalnya dibuat untuk struktur relasional.  Sedangkan untuk NoSQL, database jenis ini cocok digunakan untuk database yang membutuhkan data set yang besar seperti big data.  NoSQL juga banyak dipakai aplikasi jejaring sosial atau customer management yang struktur datanya bisa berubah sewaktu-waktu tergantung dari perkembangan aplikasinya sendiri.
+Contoh:
+SQL
+SELECT kolom1, kolom2, … FROM nama_tabel WHERE kondisi;
+
+NOSQL
+db.createCollections("nama_koleksi")
+
+db.buku.insert({
+    judul: "Belajar MongoDB",
+    sinopsis: "Panduan MongoDB untuk Pemula",
+    pengarang: "Petani Kode"
+})
+
+sumber: 
+https://idcloudhost.com/panduan-sql-fungsi-cara-kerja-serta-perintah-dasarnya/#:~:text=Perintah%20%E2%80%93%20Perintah%20dalam%20SQL%20ada,sebuah%20data%20dengan%20data%20lainnya.
+
+https://www.petanikode.com/tutorial-dasar-mongodb/
+
+https://inixindojogja.co.id/sql-vs-nosql-perbedaan-dalam-menentukan-pilihan-database/#:~:text=Seperti%20yang%20telah%20beberapa%20kali,yang%20membutuhkan%20transaksi%20multi%20baris.&text=Sedangkan%20untuk%20NoSQL%2C%20database%20jenis,yang%20besar%20seperti%20big%20data.
+
+6. https://youtu.be/HNp5mTTU10k (saya upload menggunakan media youtube)
+7. https://youtu.be/BkvzyY3NHz8 (saya upload menggunakan media youtube)
